@@ -21,7 +21,7 @@ body {
   background-color: #f1eee9;
   color: #3e3937;
   text-align: center;
-}
+  }
 
 body,
 h1,
@@ -544,6 +544,7 @@ body {
   position: relative;
   padding: 60px 0;
   background-color: #fff;
+  overflow: hidden;
 }
 
 .bar-info-bg__title {
