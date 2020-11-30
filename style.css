@@ -292,6 +292,11 @@ body {
   margin-top: 40px;
 }
 
+.pickup-info .title,
+.pickup-info .title-sub {
+  padding: 0 40px;
+}
+
 .pickup-info .title-sub {
   margin-top: 40px;
 }
